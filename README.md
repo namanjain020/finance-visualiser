@@ -1,5 +1,5 @@
 # Finance Visualiser
-A data finacne visualiser panel for a company using React and Victory.
+A data finance visualiser panel for a company using React and Victory.
 
 
 ## Setting up
